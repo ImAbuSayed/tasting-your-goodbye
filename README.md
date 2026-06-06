@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tasting-your-goodbye/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tasting Your Goodbye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tasting-your-goodbye/) |
+| **Get License** | [Get License For Tasting Your Goodbye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tasting-your-goodbye/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7170d84bfebcff25bba6a47c4475381df603b64ca121017a2351d59bc22e8e55` |
 | **Timestamp** | June 06, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
